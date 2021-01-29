@@ -1,4 +1,4 @@
-# #KDenClient is a private client brought to you by xDemxns
+# #KDenClient is a private client now public
 it is mainly made for impurity.me.
 the owner is AngelsOfMercy.
 the SRC is a mess & not cleaned up at all
